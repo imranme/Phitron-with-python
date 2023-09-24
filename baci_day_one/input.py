@@ -7,6 +7,9 @@ print('hear is name', name)
 
 print('hello python!')
 
+print(5+5)
+
+print("first string" +" " + "second string")
 """ 
 Google search 
 1. covert number to string: str
