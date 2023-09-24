@@ -5,6 +5,8 @@ print(" here is your money", money)
 name =input('give me your contry name: ')
 print('hear is name', name)
 
+print('hello python!')
+
 """ 
 Google search 
 1. covert number to string: str
