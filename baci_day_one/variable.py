@@ -17,3 +17,17 @@ print(type(rate))
 
 print('kodom Ali' +' ' + 'kacha badam')
 
+x=7
+print(x+3)
+
+x= 10.5
+print(x)
+
+x = "Hello There"
+print(x)
+
+user_intput = input("Enter your birth year: ")
+age = 2016 - int(user_intput)
+print("You are " + str(age))
+
+
