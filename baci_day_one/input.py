@@ -17,3 +17,8 @@ Google search
 3.python int vs float
  """
 
+language = "python"
+
+language += "3"
+
+print(language)
